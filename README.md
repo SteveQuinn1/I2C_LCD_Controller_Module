@@ -17,11 +17,11 @@ https://www.instructables.com/id/
 
 ### I2C LCD Controller Module PCB
 
-![LCD-Controller-Module](./docs/NewBoard.jpg)
+![LCD-Controller-Module](./docs/NewBoard.png)
 
 ### I2C LCD Controller Module PCB Fitted to 4 by 20 LCD
 
-![LCD-Controller-Module-Fitted](./docs/NewBoardFitted.jpg)
+![LCD-Controller-Module-Fitted](./docs/NewBoardFitted.png)
 
 ### Full circuit diagram
 
