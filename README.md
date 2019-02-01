@@ -25,7 +25,7 @@ https://www.instructables.com/id/
 
 ### Full circuit diagram
 
-![LCD-Controller-cct](./docs/CircuitDiagram.png)
+![LCD-Controller-cct](./docs/CircuitDiagram.jpg)
 
 ### Directory content
 
