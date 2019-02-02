@@ -17,7 +17,7 @@ The PCB has been designed to allow the user to select either;
 
 For further details see the following instructable;
 
-https://www.instructables.com/id/
+https://www.instructables.com/id/I2C-LCD-Controller-Module
 
 ### I2C LCD Controller Module PCB
 
@@ -31,7 +31,7 @@ https://www.instructables.com/id/
 
 ![LCD-Controller-cct](./docs/CircuitDiagram.jpg)
 
-### Directory content
+### Repository content
 
 #### LCDControllerModule
 
@@ -40,14 +40,14 @@ This contains an example Arduino sketch allowing the user to exercise full contr
 To create and use the I2C LCD controller module you will require the following;
 
 ##### Arduino Sketch Libraries
-LCD Library [here](https://github.com/SteveQuinn1/LiquidCrystal_I2C_PCF8574/)
+ - LCD Library [here](https://github.com/SteveQuinn1/LiquidCrystal_I2C_PCF8574/)
 
-Digital Pot Library [here](https://github.com/SteveQuinn1/MCP4561_DIGI_POT/)
+ - Digital Pot Library [here](https://github.com/SteveQuinn1/MCP4561_DIGI_POT/)
 
 ##### PCB ATTiny85 Source (U1)
-See Instructable [Smooth PWM LED Fading With the ATTiny85](https://www.instructables.com/id/Smooth-PWM-LED-Fading-With-the-ATTiny85/)
+ - See Instructable [Smooth PWM LED Fading With the ATTiny85](https://www.instructables.com/id/Smooth-PWM-LED-Fading-With-the-ATTiny85/)
 
-You will require 'Tiny85_I2C_Slave_PWM_2.ino' [here](https://cdn.instructables.com/ORIG/FBR/FVZ9/IXLAN8OF/FBRFVZ9IXLAN8OF.zip)
+ - You will require 'Tiny85_I2C_Slave_PWM_2.ino' [here](https://cdn.instructables.com/ORIG/FBR/FVZ9/IXLAN8OF/FBRFVZ9IXLAN8OF.zip)
 
 #### PCB
 
